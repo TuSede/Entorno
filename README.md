@@ -6,4 +6,4 @@
    chmod +x helpers.sh
    sudo ./helpers.sh -i musicMode
    ```
-# hotkeys
+# Hotkeys
