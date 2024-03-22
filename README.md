@@ -8,7 +8,7 @@
    ```
 # Hotkeys
    ```js
-Shortcut	Description
+Shortcut	      Description
 super + Enter	Terminal Emulator - /usr/bin/kitty
 super + d	Program Launcher - rofi
 super + Escape	Reload sxhkd configuration
