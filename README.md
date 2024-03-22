@@ -39,9 +39,11 @@ super + shift + g	Open Chrome
 super + b	Open BurpSuite Community Edition
 super + shift + o	 Open Obsidian
 super + q	   Lock screen with i3lock-fancy
-   ```
 
-| First Header  | Second Header |
+| Shortcut  | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+   ```
+
+
