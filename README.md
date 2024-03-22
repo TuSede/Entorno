@@ -20,8 +20,8 @@ super + g	            Swap current window with biggest window
 super + {t,shift + t,s,f}   Set window state
 super + ctrl + {m,x,y,z}    Set window flags
 super + {_,shift + }{Left,Down,Up,Right}	Focus window in given direction
-super + {p,b,comma,period} Focus next/previous window on current desktop
-super + {_,shift + }c Focus next/previous window on current desktop
+super + {p,b,comma,period}  Focus next/previous window on current desktop
+super + {_,shift + }c       Focus next/previous window on current desktop
 super + bracket{left,right} Focus next/previous desktop on current monitor
 super + {grave,Tab} Focus last window/desktop
 super + {o,i}  Focus older/newer window in focus history
