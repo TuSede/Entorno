@@ -1,4 +1,4 @@
-# Instalacion del entorno
+# Instalación del entorno
    ```js
    cd Downloads
    git clone https://github.com/TuSede/Entorno.git
@@ -6,3 +6,4 @@
    chmod +x helpers.sh
    sudo ./helpers.sh -i musicMode
    ```
+# hotkeys
