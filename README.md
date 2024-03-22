@@ -27,13 +27,13 @@ super + {grave,Tab}         Focus last window/desktop
 super + {o,i}               Focus older/newer window in focus history
 super + {_,shift + }{1-9,0} Focus or send to given desktop
 super + ctrl + alt + {Left,Down,Up,Right}	Preselect direction
-super + ctrl + {1-9}	       Preselect ratio
-super + ctrl + alt + space	 Cancel preselection for focused window
-super + ctrl + shift + space	Cancel preselection for focused desktop
-super + alt + {Left,Down,Up,Right}	Expand window
-super + alt + shift + {Left,Down,Up,Right}	Contract window
-super + ctrl + {Left,Down,Up,Right}	Move floating window
-super + {Left,Down,Up,Right}	Custom move window
+super + ctrl + {1-9}	      Preselect ratio
+super + ctrl + alt + space	Cancel preselection for focused window
+super + ctrl + shift + space Cancel preselection for focused desktop
+super + alt + {Left,Down,Up,Right} Expand window
+super + alt + shift + {Left,Down,Up,Right} Contract window
+super + ctrl + {Left,Down,Up,Right} Move floating window
+super + {Left,Down,Up,Right} Custom move window
 super + shift + f	Open Firefox
 super + shift + g	Open Chrome
 super + b	Open BurpSuite Community Edition
