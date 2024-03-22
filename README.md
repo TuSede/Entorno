@@ -13,7 +13,7 @@ super + Enter	            Terminal Emulator - /usr/bin/kitty
 super + d	            Program Launcher - rofi
 super + Escape	            Reload sxhkd configuration
 super + alt + {q,r}	    Quit/Restart bspwm
-super + {_,shift + }q	   Close/Kill window
+super + {_,shift + }q	    Close/Kill window
 super + m	               Toggle between tiled and monocle layout
 super + y	               Send newest marked window to newest preselected window
 super + g	               Swap current window with biggest window
