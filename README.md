@@ -1,6 +1,6 @@
 # Clonar el repositorio desde GitHub
 cd Downloads
-git clone https://github.com/4xLoff/Entorno.git
+git clone https://github.com/TuSede/Entorno.git
 
 # Navegar al directorio clonado
 cd Entorno
