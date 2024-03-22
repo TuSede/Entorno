@@ -14,11 +14,11 @@ super + d	            Program Launcher - rofi
 super + Escape	            Reload sxhkd configuration
 super + alt + {q,r}	    Quit/Restart bspwm
 super + {_,shift + }q	    Close/Kill window
-super + m	             Toggle between tiled and monocle layout
-super + y	             Send newest marked window to newest preselected window
-super + g	             Swap current window with biggest window
-super + {t,shift + t,s,f} Set window state
-super + ctrl + {m,x,y,z}  Set window flags
+super + m	            Toggle between tiled and monocle layout
+super + y	            Send newest marked window to newest preselected window
+super + g	            Swap current window with biggest window
+super + {t,shift + t,s,f}  Set window state
+super + ctrl + {m,x,y,z}   Set window flags
 super + {_,shift + }{Left,Down,Up,Right}	Focus window in given direction
 super + {p,b,comma,period}	Focus next/previous window on current desktop
 super + {_,shift + }c	Focus next/previous window on current desktop
