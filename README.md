@@ -21,11 +21,11 @@ super + {t,shift + t,s,f}   Set window state
 super + ctrl + {m,x,y,z}    Set window flags
 super + {_,shift + }{Left,Down,Up,Right}	Focus window in given direction
 super + {p,b,comma,period}	Focus next/previous window on current desktop
-super + {_,shift + }c	Focus next/previous window on current desktop
-super + bracket{left,right}	Focus next/previous desktop on current monitor
-super + {grave,Tab}	Focus last window/desktop
-super + {o,i}	Focus older/newer window in focus history
-super + {_,shift + }{1-9,0}	Focus or send to given desktop
+super + {_,shift + }c Focus next/previous window on current desktop
+super + bracket{left,right} Focus next/previous desktop on current monitor
+super + {grave,Tab} Focus last window/desktop
+super + {o,i} Focus older/newer window in focus history
+super + {_,shift + }{1-9,0} Focus or send to given desktop
 super + ctrl + alt + {Left,Down,Up,Right}	Preselect direction
 super + ctrl + {1-9}	Preselect ratio
 super + ctrl + alt + space	Cancel preselection for focused window
