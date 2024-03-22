@@ -10,7 +10,7 @@
    ```js
 |             Shortcut                      |                Description                              |
 | ----------------------------------------- | ------------------------------------------------------- |
-| super + Enter	                             | Terminal Emulator - /usr/bin/kitty                      |
+| super + Enter	                            | Terminal Emulator - /usr/bin/kitty                      |
 | super + d	                                | Program Launcher - rofi                                 |
 | super + Escape	                          | Reload sxhkd configuration                              |
 | super + alt + {q,r}	                    | Quit/Restart bspwm                                      |
